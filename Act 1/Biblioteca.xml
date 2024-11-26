@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE biblioteca SYSTEM "C:\Users\palba\Documents\1DAW\Lenguaje de marcas\UD4\Act 1\BlibliotecaDeLibros.dtd">
+
+<biblioteca>
+  <libro>
+    <titulo>La saga de los longevos, La vieja familia</titulo>
+    <autor>Eva Garcia Sàenz de Urturi</autor>
+    <editorial>Planeta</editorial>
+    <año>2012</año>
+    <genero>Fantasía romántica</genero>
+    <isbn>9788408292692</isbn>
+  </libro>
+
+  <libro>
+    <titulo>La cartera</titulo>
+    <autor>Francesca Gianone</autor>
+    <editorial>Duomo ediciones</editorial>
+    <año>2024</año>
+    <genero>Ficción</genero>
+    <isbn>978-84-19834-22-5</isbn>
+  </libro>
+
+  <libro>
+    <titulo>Viento y verdad. El archivo de las tormentas 5</titulo>
+    <autor>Brandon Sanderson</autor>
+    <editorial>Nova</editorial>
+    <año>2024</año>
+    <genero>Fantasía épica</genero>
+    <isbn>9788419260543</isbn>
+  </libro>
+
+  <libro>
+    <titulo>La librería  de los deseos</titulo>
+    <autor>Eric de Kermel</autor>
+    <editorial>NEWTON COMPTON EDITORES</editorial>
+    <año>2024</año>
+    <genero>Novela romántica</genero>
+    <isbn>978-84-19620-26-2</isbn>
+  </libro>
+
+  <libro>
+    <titulo>Victoria</titulo>
+    <autor>Paloma Sánchez Garnica</autor>
+    <editorial>Planeta</editorial>
+    <año>2024</año>
+    <genero>Novela histórica</genero>
+    <isbn>9788408292692</isbn>
+  </libro>
+
+  <libro>
+    <titulo>La paciente silenciosa</titulo>
+    <autor>Alex Michaelides</autor>
+    <editorial>Debolsillo</editorial>
+    <año>2019</año>
+    <genero>Suspense</genero>
+    <isbn>9788466351935</isbn>
+  </libro>
+
+  <libro>
+    <titulo>Me piden que regrese</titulo>
+    <autor>Andrés Trapiello</autor>
+    <editorial>DESTINO S.A.</editorial>
+    <año>2024</año>
+    <genero>Ficción</genero>
+    <isbn>978-84-233-6585-2</isbn>
+  </libro>
+
+  <libro>
+    <titulo>La vegetariana</titulo>
+    <autor>Han Kang</autor>
+    <editorial>Random House</editorial>
+    <año>2024</año>
+    <genero>Novela psicológica</genero>
+    <isbn>9788439743897</isbn>
+  </libro>
+
+  <libro>
+    <titulo>Blackwater 1. La riada</titulo>
+    <autor>Michael McDowell</autor>
+    <editorial>Blackie Books</editorial>
+    <año>2024</año>
+    <genero>Ficción literaria</genero>
+    <isbn>9788419654892</isbn>
+  </libro>
+
+  <libro>
+    <titulo>La primera mentira gana</titulo>
+    <autor>Ashley Elston</autor>
+    <editorial>SUMA DE LETRAS</editorial>
+    <año>2024</año>
+    <genero>Suspense</genero>
+    <isbn>978-84-9129-722-2</isbn>
+  </libro>
+
+</biblioteca>
