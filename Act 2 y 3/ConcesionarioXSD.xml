@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="C:\Users\palba\Documents\1DAW\Lenguaje de marcas\UD4\Act 2 y 3\Esquema.xsd">
+
+<coche>
+    <codigo>011</codigo>
+    <marca>Renault</marca>
+    <modelo>Clio</modelo>
+    <matricula>ZXC9837</matricula>
+    <potencia>95</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>012</codigo>
+    <marca>Peugeot</marca>
+    <modelo>208</modelo>
+    <matricula>GHT7264</matricula>
+    <potencia>115</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>013</codigo>
+    <marca>BMW</marca>
+    <modelo>Serie 1</modelo>
+    <matricula>RYP4429</matricula>
+    <potencia>170</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>014</codigo>
+    <marca>Mercedes</marca>
+    <modelo>Clase A</modelo>
+    <matricula>LKP8520</matricula>
+    <potencia>190</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>015</codigo>
+    <marca>Fiat</marca>
+    <modelo>500</modelo>
+    <matricula>FZN6021</matricula>
+    <potencia>85</potencia>
+    <plazas>4</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>016</codigo>
+    <marca>Audi</marca>
+    <modelo>A3</modelo>
+    <matricula>VCM3248</matricula>
+    <potencia>150</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>017</codigo>
+    <marca>Volvo</marca>
+    <modelo>S40</modelo>
+    <matricula>XWY7582</matricula>
+    <potencia>180</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>018</codigo>
+    <marca>Skoda</marca>
+    <modelo>Octavia</modelo>
+    <matricula>KHD9047</matricula>
+    <potencia>140</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>019</codigo>
+    <marca>Jeep</marca>
+    <modelo>Renegade</modelo>
+    <matricula>PLK5421</matricula>
+    <potencia>160</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+<coche>
+    <codigo>020</codigo>
+    <marca>Alfa Romeo</marca>
+    <modelo>Giulietta</modelo>
+    <matricula>HTY6719</matricula>
+    <potencia>170</potencia>
+    <plazas>5</plazas>
+    <puertas>4</puertas>
+</coche>
+</concesionario>
