@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE alumnos SYSTEM "C:\Users\palba\Documents\1DAW\Lenguaje de marcas\UD4\Act 5\Alumno.dtd">
+
+<alumnos>
+
+    <alumno>
+        <nif>11111111A</nif>
+        <resultado>no apto</resultado>
+        <observaciones>No atiende en clase</observaciones>
+        <ip>192.168.1.3</ip>
+    </alumno>
+
+    <alumno>
+        <nif>22222222B</nif>
+        <resultado>no apto</resultado>
+        <observaciones>No presentó el trabajo de tecnología</observaciones>
+        <mac>43:12:23:66:64:35</mac>
+    </alumno>
+
+    <alumno>
+        <nif>33333333C</nif>
+        <resultado>apto</resultado>
+        <observaciones>Resuelve los problemas rápidamente</observaciones>
+        <ip>192.168.1.4</ip>
+    </alumno>
+
+    <alumno>
+        <nif>44444444D</nif>
+        <resultado>no apto</resultado>
+        <observaciones>No entregó los ejercicios de clase</observaciones>
+        <mac>12:90:54:29:43</mac>
+    </alumno>
+
+    <alumno>
+        <nif>55555555E</nif>
+        <resultado>no apto</resultado>
+        <observaciones>No ha aprobado ninguna prueba</observaciones>
+        <ip>192.168.1.5</ip>
+    </alumno>
+
+</alumnos>
