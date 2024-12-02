@@ -1,0 +1,76 @@
+
+<!DOCTYPE Clientes SYSTEM "C:\Users\palba\Documents\1DAW\Lenguaje de marcas\UD4\Act 4\DatosCliente.dtd">
+
+<Clientes>
+
+  <Cliente>
+    <CodigoSede tipo="ID">Q12234567</CodigoSede>
+    <EmpleadoAlta>Ángel</EmpleadoAlta>
+    <Fecha>3-3-2023</Fecha>
+    <DatosCliente>
+      <CodigoCliente tipo="ID">QWE-888</CodigoCliente>
+      <Descripcion>solvente</Descripcion>
+      <Viviendas>2</Viviendas>
+      <Coste>150</Coste>
+      <Resumen>2 apartamentos en Ubrique</Resumen>
+      <Plazo>2025-01-01</Plazo>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="ID">A1234567</CodigoSede>
+    <EmpleadoAlta>Paco Gutierrez</EmpleadoAlta>
+    <Fecha>20-2-2024</Fecha>
+    <DatosCliente>
+      <CodigoCliente tipo="ID">REP-555</CodigoCliente>
+      <Descripcion>insolvente</Descripcion>
+      <Viviendas>2</Viviendas>
+      <Coste>1200</Coste>
+      <Resumen>2 casas en Huelva</Resumen>
+      <Plazo>12-3-2025</Plazo>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="ID">W1234567</CodigoSede>
+    <EmpleadoAlta>Fran Gago</EmpleadoAlta>
+    <Fecha>2024-10-20</Fecha>
+    <DatosCliente>
+      <CodigoCliente tipo="ID">WAS-666</CodigoCliente>
+      <Descripcion>insolvente</Descripcion>
+      <Viviendas>1</Viviendas>
+      <Coste>400</Coste>
+      <Resumen>1 casa en Sevilla</Resumen>
+      <Plazo>2025-02-01</Plazo>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="ID">S1234567</CodigoSede>
+    <EmpleadoAlta>María Pérez</EmpleadoAlta>
+    <Fecha>20-1-2022</Fecha>
+    <DatosCliente>
+      <CodigoCliente tipo="ID">MNP-333</CodigoCliente>
+      <Descripcion>solvente</Descripcion>
+      <Viviendas>4</Viviendas>
+      <Coste>100</Coste>
+      <Resumen>2 pisos en Cádiz</Resumen>
+      <Plazo>17-8-2027</Plazo>
+    </DatosCliente>
+  </Cliente>
+
+  <Cliente>
+    <CodigoSede tipo="ID">O1234567</CodigoSede>
+    <EmpleadoAlta>Juan Benítez</EmpleadoAlta>
+    <Fecha>11-04-2023</Fecha>
+    <DatosCliente>
+      <CodigoCliente tipo="ID">JRC-111</CodigoCliente>
+      <Descripcion>insolvente</Descripcion>
+      <Viviendas>3</Viviendas>
+      <Coste>180</Coste>
+      <Resumen>3 casas en Málaga</Resumen>
+      <Plazo>25-10-2028</Plazo>
+    </DatosCliente>
+  </Cliente>
+  
+</Clientes>
