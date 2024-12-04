@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Modulos SYSTEM "C:\Users\palba\Documents\1DAW\Lenguaje de marcas\UD4\Act 6\Modulo.dtd">
+<Modulos>
+    <Modulo nombre="Desarrollo de Aplicaciones Multiplataforma.">
+        <Contenidos>
+            <UD tipo="Teorica" descripcion="Lección sobre scripts y pruebas test.">
+                <Nombre>UD1 XML</Nombre>
+            </UD>
+            <UD tipo="Practica" descripcion="Tutoriales sobre HTML, Java.">
+                <Nombre>UD2 HTML, Java</Nombre>
+            </UD>
+        </Contenidos>
+    </Modulo>
+
+    <Modulo nombre="Lenguaje de Marcas">
+        <Contenidos>
+            <UD tipo="Teorica" descripcion="Uso de etiquetas y atributos.">
+                <Nombre>UD1 Etiquetas y atributos en XML</Nombre>
+            </UD>
+            <UD tipo="Practica" descripcion="Crear un archivo .XML.">
+                <Nombre>UD1 XML</Nombre>
+            </UD>
+        </Contenidos>
+    </Modulo>
+
+    <Modulo nombre="Programacion">
+        <Contenidos>
+            <UD tipo="Teorica" descripcion="Conceptos de clases y funciones">
+                <Nombre>UD1 Tutorial PSINT</Nombre>
+            </UD>
+            <UD tipo="Practica" descripcion="Proyecto calculadora Java">
+                <Nombre>UD2 Presentación de una calculadora en Java</Nombre>
+            </UD>
+        </Contenidos>
+    </Modulo>
+
+    <Modulo nombre="Sistemas Informaticos">
+        <Contenidos>
+            <UD tipo="Teorica" descripcion="Conceptos sobre hardware y software">
+                <Nombre>UD1 Prueba test sobre harware</Nombre>
+            </UD>
+            <UD tipo="Practica" descripcion="Montaje de PC">
+                <Nombre>UD2 Montar un PC desde cero</Nombre>
+            </UD>
+        </Contenidos>
+    </Modulo>
+
+    <Modulo nombre="Base de Datos">
+        <Contenidos>
+            <UD tipo="Teorica" descripcion="Claves primarias, secundarias, ajenas">
+                <Nombre>UD1 Test sobre las claves de un modelo relacional</Nombre>
+            </UD>
+            <UD tipo="Practica" descripcion="Modelo Entidad-Relacion">
+                <Nombre>UD2 - Desarrollar un Modelo Entidad-Relacion</Nombre>
+            </UD>
+        </Contenidos>
+    </Modulo>
+
+</Modulos>
