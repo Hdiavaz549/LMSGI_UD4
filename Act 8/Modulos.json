@@ -1,0 +1,93 @@
+{
+    "Modulos": {
+      "Modulo": [
+        {
+          "nombre": "Desarrollo de Aplicaciones Multiplataforma.",
+          "Contenidos": {
+            "UD": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Lección sobre scripts y pruebas test.",
+                "Nombre": "UD1 XML"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Tutoriales sobre HTML, Java.",
+                "Nombre": "UD2 HTML, Java"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Lenguaje de Marcas",
+          "Contenidos": {
+            "UD": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Uso de etiquetas y atributos.",
+                "Nombre": "UD1 Etiquetas y atributos en XML"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Crear un archivo .XML.",
+                "Nombre": "UD1 XML"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Programacion",
+          "Contenidos": {
+            "UD": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Conceptos de clases y funciones",
+                "Nombre": "UD1 Tutorial PSINT"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Proyecto calculadora Java",
+                "Nombre": "UD2 Presentación de una calculadora en Java"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Sistemas Informaticos",
+          "Contenidos": {
+            "UD": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Conceptos sobre hardware y software",
+                "Nombre": "UD1 Prueba test sobre harware"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Montaje de PC",
+                "Nombre": "UD2 Montar un PC desde cero"
+              }
+            ]
+          }
+        },
+        {
+          "nombre": "Base de Datos",
+          "Contenidos": {
+            "UD": [
+              {
+                "tipo": "Teorica",
+                "descripcion": "Claves primarias, secundarias, ajenas",
+                "Nombre": "UD1 Test sobre las claves de un modelo relacional"
+              },
+              {
+                "tipo": "Practica",
+                "descripcion": "Modelo Entidad-Relacion",
+                "Nombre": "UD2 - Desarrollar un Modelo Entidad-Relacion"
+              }
+            ]
+          }
+        }
+            ]
+          }
+        }
+
+  

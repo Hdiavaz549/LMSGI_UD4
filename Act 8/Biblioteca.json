@@ -1,0 +1,85 @@
+{
+    "biblioteca":
+     [
+        {
+            "titulo": "La saga de los longevos, La vieja familia",
+            "autor": "Eva Garcia Sàenz de Urturi",
+            "editorial": "Planeta",
+            "año": "2012",
+            "genero": "Fantasía romántica",
+            "isbn": "9788408292692"
+        },
+        {
+            "titulo": "La cartera",
+            "autor": "Francesca Gianone",
+            "editorial": "Duomo ediciones",
+            "año": "2024",
+            "genero": "Ficción",
+            "isbn": "978-84-19834-22-5"
+        },
+        {
+            "titulo": "Viento y verdad. El archivo de las tormentas 5",
+            "autor": "Brandon Sanderson",
+            "editorial": "Nova",
+            "año": "2024",
+            "genero": "Fantasía épica",
+            "isbn": "9788419260543"
+        },
+        {
+            "titulo": "La librería  de los deseos",
+            "autor": "Eric de Kermel",
+            "editorial": "NEWTON COMPTON EDITORES",
+            "año": "2024",
+            "genero": "Novela romántica",
+            "isbn": "978-84-19620-26-2"
+        },
+        {
+            "titulo": "Victoria",
+            "autor": "Paloma Sánchez Garnica",
+            "editorial": "Planeta",
+            "año": "2024",
+            "genero": "Novela histórica",
+            "isbn": "9788408292692"
+        },
+        {
+            "titulo": "La paciente silenciosa",
+            "autor": "Alex Michaelides",
+            "editorial": "Debolsillo",
+            "año": "2019",
+            "genero": "Suspense",
+            "isbn": "9788466351935"
+        },
+        {
+            "titulo": "Me piden que regrese",
+            "autor": "Andrés Trapiello",
+            "editorial": "DESTINO S.A.",
+            "año": "2024",
+            "genero": "Ficción",
+            "isbn": "978-84-233-6585-2"
+        },
+        {
+            "titulo": "La vegetariana",
+            "autor": "Han Kang",
+            "editorial": "Random House",
+            "año": "2024",
+            "genero": "Novela psicológica",
+            "isbn": "9788439743897"
+        },
+        {
+            "titulo": "Blackwater 1. La riada",
+            "autor": "Michael McDowell",
+            "editorial": "Blackie Books",
+            "año": "2024",
+            "genero": "Ficción literaria",
+            "isbn": "9788419654892"
+        },
+        {
+            "titulo": "La primera mentira gana",
+            "autor": "Ashley Elston",
+            "editorial": "SUMA DE LETRAS",
+            "año": "2024",
+            "genero": "Suspense",
+            "isbn": "978-84-9129-722-2"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "concesionario": 
+    [
+        {
+            "codigo": "001",
+            "marca": "Renault",
+            "modelo": "Clio",
+            "matricula": "ZXC9837",
+            "potencia": "95",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "002",
+            "marca": "Peugeot",
+            "modelo": "208",
+            "matricula": "GHT7264",
+            "potencia": "115",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "003",
+            "marca": "BMW",
+            "modelo": "Serie 1",
+            "matricula": "RYP4429",
+            "potencia": "170",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "004",
+            "marca": "Mercedes",
+            "modelo": "Clase A",
+            "matricula": "LKP8520",
+            "potencia": "190",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "005",
+            "marca": "Fiat",
+            "modelo": "500",
+            "matricula": "FZN6021",
+            "potencia": "85",
+            "plazas": "4",
+            "puertas": "4"
+        },
+        {
+            "codigo": "006",
+            "marca": "Audi",
+            "modelo": "A3",
+            "matricula": "VCM3248",
+            "potencia": "150",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "007",
+            "marca": "Volvo",
+            "modelo": "S40",
+            "matricula": "XWY7582",
+            "potencia": "180",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "008",
+            "marca": "Skoda",
+            "modelo": "Octavia",
+            "matricula": "KHD9047",
+            "potencia": "140",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "009",
+            "marca": "Jeep",
+            "modelo": "Renegade",
+            "matricula": "PLK5421",
+            "potencia": "160",
+            "plazas": "5",
+            "puertas": "4"
+        },
+        {
+            "codigo": "010",
+            "marca": "Alfa Romeo",
+            "modelo": "Giulietta",
+            "matricula": "HTY6719",
+            "potencia": "170",
+            "plazas": "5",
+            "puertas": "4"
+        }
+    ]
+}

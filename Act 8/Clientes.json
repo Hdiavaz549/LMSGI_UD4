@@ -1,0 +1,101 @@
+{
+  "Clientes": {
+    "Cliente": [
+      {
+        "CodigoSede": {
+          "tipo": "ID",
+          "value": "Q12234567"
+        },
+        "EmpleadoAlta": "Ángel",
+        "Fecha": "3-3-2023",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "ID",
+            "value": "QWE-888"
+          },
+          "Descripcion": "solvente",
+          "Viviendas": 2,
+          "Coste": 150,
+          "Resumen": "2 apartamentos en Ubrique",
+          "Plazo": "2025-01-01"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "ID",
+          "value": "A1234567"
+        },
+        "EmpleadoAlta": "Paco Gutierrez",
+        "Fecha": "20-2-2024",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "ID",
+            "value": "REP-555"
+          },
+          "Descripcion": "insolvente",
+          "Viviendas": 2,
+          "Coste": 1200,
+          "Resumen": "2 casas en Huelva",
+          "Plazo": "12-3-2025"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "ID",
+          "value": "W1234567"
+        },
+        "EmpleadoAlta": "Fran Gago",
+        "Fecha": "2024-10-20",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "ID",
+            "value": "WAS-666"
+          },
+          "Descripcion": "insolvente",
+          "Viviendas": 1,
+          "Coste": 400,
+          "Resumen": "1 casa en Sevilla",
+          "Plazo": "2025-02-01"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "ID",
+          "value": "S1234567"
+        },
+        "EmpleadoAlta": "María Pérez",
+        "Fecha": "20-1-2022",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "ID",
+            "value": "MNP-333"
+          },
+          "Descripcion": "solvente",
+          "Viviendas": 4,
+          "Coste": 100,
+          "Resumen": "2 pisos en Cádiz",
+          "Plazo": "17-8-2027"
+        }
+      },
+      {
+        "CodigoSede": {
+          "tipo": "ID",
+          "value": "O1234567"
+        },
+        "EmpleadoAlta": "Juan Benítez",
+        "Fecha": "11-04-2023",
+        "DatosCliente": {
+          "CodigoCliente": {
+            "tipo": "ID",
+            "value": "JRC-111"
+          },
+          "Descripcion": "insolvente",
+          "Viviendas": 3,
+          "Coste": 180,
+          "Resumen": "3 casas en Málaga",
+          "Plazo": "25-10-2028"
+        }
+      }
+    ]
+  }
+}
